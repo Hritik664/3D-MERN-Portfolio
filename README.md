@@ -4,6 +4,8 @@ A modern, animated, and responsive developer portfolio built with cutting-edge t
 
 ---
 
+![Portfolio Preview](portfolio.png)
+
 ## 🚀 Features
 
 ### 🧩 Core Sections
